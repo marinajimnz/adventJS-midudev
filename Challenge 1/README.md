@@ -1,4 +1,4 @@
- - ESP -
+ - ESP 
 
 Este año los elfos han comprado una máquina que envuelve regalos. Pero... ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
 
@@ -9,7 +9,7 @@ El papel de regalo es el símbolo * y para envolver un regalo se coloca el símb
 El papel de regalo envuelve el string. Por arriba y por abajo, para no dejar ningún hueco, las esquinas también están cubiertas por el papel de regalo.
 
 
-- ENG -
+- ENG 
 
 This year the elves have bought a machine that wraps gifts. But... it doesn't come programmed! We need to create an algorithm to help them with the task.
 
